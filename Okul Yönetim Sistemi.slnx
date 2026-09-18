@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BusinessLayer/BusinessLayer.csproj" Id="7b1a7b83-eaf1-4911-8b2d-1e506d29ed61" />
+  <Project Path="DataAccesLayer/DataAccesLayer.csproj" Id="610fee45-7300-40a9-87ad-044642acafd7" />
+  <Project Path="EntityLayer/EntityLayer.csproj" Id="b7e584ab-4e80-4e64-a4fb-a3ecfff8cb22" />
+  <Project Path="Sunum/Sunum.csproj" Id="fca2ab5d-5ed6-45f9-93bd-c53551070384" />
+</Solution>
